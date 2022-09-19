@@ -1,2 +1,3 @@
 # Assignment-1
-Code for Chemical Reactor Modelling Assignment
+
+Julia Code for an assignment of CH3040 - Chemical Reactor Modelling Assign, a course offered at IIT Hyderabad. 
